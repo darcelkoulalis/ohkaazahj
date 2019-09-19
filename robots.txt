@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziewofeinu.news-coder.com/sitemap.xml
